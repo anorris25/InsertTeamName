@@ -1,10 +1,10 @@
-# InsertTeamName
+# GitHubGremlins
 Big Ideas Final Project
-Team name: InsertTeamName
+Team name: GitHubGremlins
 
 ## Team members:
 
-Allison Briggs 
+Allison Briggs aab166@pitt.edu
 
 Anne Norris amn124@pitt.edu 
 
